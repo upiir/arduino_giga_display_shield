@@ -11,6 +11,7 @@ Links from the video:
 - Giga Display Shield: https://store.arduino.cc/products/giga-display-shield
 - Image Converter: https://lvgl.io/tools/imageconverter
 - Hex to text file converter: https://tomeko.net/online_tools/file_to_hex.php?lang=en
+- My favorite USB-C cable: https://s.click.aliexpress.com/e/_Dmpk4ht
 
 
 
