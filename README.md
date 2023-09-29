@@ -26,6 +26,14 @@ Arduino and color display videos:
 ![THUMB_giga_display_shield](https://github.com/upiir/arduino_giga_display_shield/assets/117754156/4414b1ed-f33e-4c24-85a0-c7f9d8bfd3a9)
 
 
+Small animations:
+
+![arduino_giga_display_shield](https://github.com/upiir/arduino_giga_display_shield/assets/117754156/2672501c-cb42-4dd6-803f-99e02edb740f)
+
+![arduino_giga_display_shield_rgb](https://github.com/upiir/arduino_giga_display_shield/assets/117754156/81b5eeb5-852d-4012-978e-d0108c7af751)
+
+
+
 
 
 Screenshots from the video:
